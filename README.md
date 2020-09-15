@@ -11,4 +11,6 @@
 
 - 💬 Ask me about my projects and experience!
 
+- 📞 Email: carlownoah@gmail.com Phone: (480)-278-0359
+
 </p>
