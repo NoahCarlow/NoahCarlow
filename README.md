@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It's Noah</h1>
-<h3 align="center">CS @ Arizona State University, BCS</h3>
+<h3 align="center">CS @ Arizona State University</h3>
 <p align="center">
 <a href=mailto:carlownoah@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="itsnoah" height="20" width="20" /></a>
 <a href=https://www.linkedin.com/in/noah-carlow/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="itsnoah" height="20" width="20" /></a>
