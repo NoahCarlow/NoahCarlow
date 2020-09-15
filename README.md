@@ -6,6 +6,7 @@
 </p>
 <p>
   <img src="https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/119426085_3203557503085076_4890263968487479948_o.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=qxDEE9TPaPUAX9mLSYy&_nc_ht=scontent.fphx1-1.fna&oh=478bd8a14005ffbf5b87ae44b84c5628&oe=5F8550FB" width="400" align="right">
+ <br>
   
 - 👷‍ I’m currently looking for an internship this Summer 2021; check out my <a href=https://www.linkedin.com/in/noah-carlow/> resume</a>
 
