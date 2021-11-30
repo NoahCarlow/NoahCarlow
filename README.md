@@ -8,10 +8,10 @@
   <img src="https://lh6.googleusercontent.com/llVD9_gsPDNTnn2_prch_oHpHjqxGCuo6g7o2t78Q_CtkDmSa7RLj8fDBDhnv8rOchFhNuyuZCx8Ew=w1920-h983-rw" width="400" align="right">
  <br>
   
-- 👷‍ Check out my <a href=https://www.linkedin.com/in/noah-carlow/> resume</a>
+- 👷‍ Check out my <a href=https://www.linkedin.com/in/noah-carlow/> LinkedIn</a>
 
 - 💬 Ask me about my projects and experience!
 
-- 📞 Email: carlownoah@gmail.com
+- 📧 Email: carlownoah@gmail.com
 
 </p>
